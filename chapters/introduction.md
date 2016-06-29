@@ -1,15 +1,12 @@
----
-title: Introduction
-date: 2016-06-29 02:54:00 Z
----
-
 Introduction to the KNK Force
 =========================
 
+[TOC]
+
+
 ***Thank you for purchasing a KNK Force!*** If you are new to digital die cutters, please read the following few paragraphs before skipping down to read the IMPORTANT section.
 
-## Your new KNK Force has the **following capabilities**:
-
+## Your new KNK Force has the **strong text**following capabilities:
 
 * Using the blade holder and any of three types of cutting blades, the Force can cut thin materials such as vinyl, paper, cardstock, poster board, Mylar, HTV, rhinestone template materials, fabric, felt, leather, craft foam, magnet sheets, acetate, chipboard, icing sheets, and more!
 
@@ -96,8 +93,6 @@ Please be aware of the following safety guidelines when working with the KNK For
 
 ##Unpacking
 
-[![Parts of the machine](https://github.com/dospuntocero/testknk/blob/master/videos/force-unboxing.jpg?raw=true)](https://www.youtube.com/embed/CLRFjO1aJzE)
-
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/CLRFjO1aJzE" frameborder="0" allowfullscreen></iframe>
 
 * After opening the box, slide the KNK Force out carefully. You do not want to tear or break the Styrofoam end pieces, in case you need them at a future time.
@@ -162,8 +157,4 @@ There are three kinds of blades for the KNK Force:
 
 ![the blade stored with a little piece of foam](https://github.com/dospuntocero/testknk/blob/master/images/blade-foam.png?raw=true)
 
-<<<<<<< HEAD
 •	If you don't have these foam pop dots, there are other alternatives, such as cutting a few small squares from craft foam or from an egg carton or even from a thick material such as felt.
-=======
-•	If you don't have these foam pop dots, there are other alternatives, such as cutting a few small squares from craft foam or from an egg carton or even from a thick material such as felt.
->>>>>>> 7a9a92a3ecfe0b015bb677672ad9a48e61a715ec
