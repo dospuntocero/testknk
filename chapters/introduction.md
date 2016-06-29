@@ -6,7 +6,7 @@ Introduction to the KNK Force
 
 ***Thank you for purchasing a KNK Force!*** If you are new to digital die cutters, please read the following few paragraphs before skipping down to read the IMPORTANT section.
 
-## Your new KNK Force has the following capabilities:
+## Your new KNK Force has the **strong text**following capabilities:
 
 * Using the blade holder and any of three types of cutting blades, the Force can cut thin materials such as vinyl, paper, cardstock, poster board, Mylar, HTV, rhinestone template materials, fabric, felt, leather, craft foam, magnet sheets, acetate, chipboard, icing sheets, and more!
 
@@ -40,17 +40,17 @@ Introduction to the KNK Force
 
 Please be aware of the following safety guidelines when working with the KNK Force:
 
-* Pinch Points:  Keep hands, long hair, loose clothing, jewelry, etc. away from the moving parts.
+* **Pinch Points**:  Keep hands, long hair, loose clothing, jewelry, etc. away from the moving parts.
 
-* Risk to Children and Pets:  Please supervise children around the Force, when it is in use.  In particular, the rotary device can pose a danger to unsupervised children and pets.
+* **Risk to Children and Pets**:  Please supervise children around the Force, when it is in use.  In particular, the rotary device can pose a danger to unsupervised children and pets.
 
-* Eye Protection:  When operating the rotary device, eye protection, such as safety glasses, is recommended.
+* **Eye Protection**:  When operating the rotary device, eye protection, such as safety glasses, is recommended.
 
-* Rotary Tool Instructions: Please read Sections 7.01 – 7.07 before using the optional rotary tool.
+* **Rotary Tool Instructions**: Please read Sections 7.01 – 7.07 before using the optional rotary tool.
 
-* Movement and Touching:  Do not move the KNK Force or touch any circuitry while it is plugged in.
+* **Movement and Touching**:  Do not move the KNK Force or touch any circuitry while it is plugged in.
 
-**Additionally**
+###Additionally
 
 * **DO NOT** touch or jam the plotter’s track while it is operating. If the cutter is damaged, it is the owner’s responsibility.
 
@@ -132,3 +132,29 @@ There are three kinds of blades for the KNK Force:
 
 * Owners who change materials often find it convenient to have the blade holders assigned to blade types whose caps match the color of the holder itself. In other words, they will only use red capped blades in their red blade holder, blue capped blades in their blue blade holder and yellow capped blades in their yellow blade holder.  Again, this is a personal choice. Any of the three blade types can be used in any of the three Force blade holders.
 
+#Blade Installation
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/uqrp7VCVfOk" frameborder="0" allowfullscreen></iframe>
+
+•	The blade must be carefully inserted into the blade holder.  Do this over a soft surface, such as a paper towel. It’s important to protect the fragile blade!  
+•	Unscrew and set aside the blade holder cap at the bottom of the blade holder. Remove the protective plastic cap (e.g. the red cap) from a blade. Keep this plastic cap so that you can cover the blade again when you change to a different blade type.  
+•	The following photo shows how the blade will be installed relative to the blade holder cap and the main section of the blade holder
+
+![the blade holder](https://github.com/dospuntocero/testknk/blob/master/images/blade-holder.png?raw=true)
+
+•	Insert the blade into the main section of the blade holder, with the non-sharp end sitting inside a small hole in the center of the blade holder.
+
+![the blade](https://github.com/dospuntocero/testknk/blob/master/images/blade.png?raw=true)
+
+•	Inside the blade holder cap is an insert with a hole. Carefully place the blade holder cap over the blade so that the blade tip slides into that hole:
+
+![the blade cap](https://github.com/dospuntocero/testknk/blob/master/images/blade-cap.png)
+
+•	Begin tightening the cap. If there is any resistance, make sure the blade tip is being fed into the hole in the cap. Screw the cap back onto the holder until it is snug.
+
+![the cap tighten](https://github.com/dospuntocero/testknk/blob/master/images/blade-point.png?raw=true)
+
+•	Because the blade is fully extended, it's very important to exercise caution when inserting and removing the holder from the Force. While the blade holders (with those blades extended) can easily be stored inside the fold-down table, you should remove the blade holders before transporting your cutter. Michele Harvey came up with a great idea for protecting the blade tips. She stores the holders in their original plastic tubes, but has added two foam pop dots in the bottom of the tube so that the blade will be resting against that foam:
+
+![the blade stored with a little piece of foam](https://github.com/dospuntocero/testknk/blob/master/images/blade-foam.png?raw=true)
+
+•	If you don't have these foam pop dots, there are other alternatives, such as cutting a few small squares from craft foam or from an egg carton or even from a thick material such as felt.
