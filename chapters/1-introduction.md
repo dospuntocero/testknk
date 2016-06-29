@@ -151,7 +151,7 @@ There are three kinds of blades for the KNK Force:
 
 •	Inside the blade holder cap is an insert with a hole. Carefully place the blade holder cap over the blade so that the blade tip slides into that hole:
 
-![the blade cap](https://github.com/dospuntocero/testknk/blob/master/images/blade-cap.png)
+![the blade cap](https://github.com/dospuntocero/testknk/blob/master/images/blade-cap.png?raw=true)
 
 •	Begin tightening the cap. If there is any resistance, make sure the blade tip is being fed into the hole in the cap. Screw the cap back onto the holder until it is snug.
 
