@@ -98,8 +98,6 @@ Please be aware of the following safety guidelines when working with the KNK For
 
 [![Parts of the machine](https://github.com/dospuntocero/testknk/blob/master/videos/force-unboxing.jpg?raw=true)](https://www.youtube.com/embed/CLRFjO1aJzE)
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/CLRFjO1aJzE" frameborder="0" allowfullscreen></iframe>
-
 * After opening the box, slide the KNK Force out carefully. You do not want to tear or break the Styrofoam end pieces, in case you need them at a future time.
 * Remove the Styrofoam end cap protectors from either side. Cut open and remove the plastic bag from around the Force.  Place the Force on a firm flat surface. 
 * Open the front fold-down table and remove the large and small foam pieces tucked around the cutting head.
@@ -138,7 +136,8 @@ There are three kinds of blades for the KNK Force:
 * Owners who change materials often find it convenient to have the blade holders assigned to blade types whose caps match the color of the holder itself. In other words, they will only use red capped blades in their red blade holder, blue capped blades in their blue blade holder and yellow capped blades in their yellow blade holder.  Again, this is a personal choice. Any of the three blade types can be used in any of the three Force blade holders.
 
 #Blade Installation
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/uqrp7VCVfOk" frameborder="0" allowfullscreen></iframe>
+
+[![the blade holder](https://github.com/dospuntocero/testknk/blob/master/videos/force-blades.jpg?raw=true)](https://www.youtube.com/embed/uqrp7VCVfOk)
 
 •	The blade must be carefully inserted into the blade holder.  Do this over a soft surface, such as a paper towel. It’s important to protect the fragile blade!  
 •	Unscrew and set aside the blade holder cap at the bottom of the blade holder. Remove the protective plastic cap (e.g. the red cap) from a blade. Keep this plastic cap so that you can cover the blade again when you change to a different blade type.  
