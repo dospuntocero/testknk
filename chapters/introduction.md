@@ -1,3 +1,5 @@
+Introduction to the KNK Force
+=========================
 ***Thank you for purchasing a KNK Force!*** If you are new to digital die cutters, please read the following few paragraphs before skipping down to read the IMPORTANT section.
 
 ## Your new KNK Force has the following capabilities:
@@ -29,57 +31,3 @@
 * There are changes in how you approach cutting some materials compared to how they’ve been cut in the past. For example, there will be different settings for vinyl cut on a mat versus vinyl cut without the mat. These will be presented separately in the recommended settings table.
 
 * Use the included test pen until you know, with confidence, where shapes will cut.
-
-### Safety and Warnings
-
-Please be aware of the following safety guidelines when working with the KNK Force:
-
-* Pinch Points:  Keep hands, long hair, loose clothing, jewelry, etc. away from the moving parts.
-
-* Risk to Children and Pets:  Please supervise children around the Force, when it is in use.  In particular, the rotary device can pose a danger to unsupervised children and pets.
-
-* Eye Protection:  When operating the rotary device, eye protection, such as safety glasses, is recommended.
-
-* Rotary Tool Instructions: Please read Sections 7.01 – 7.07 before using the optional rotary tool.
-
-* Movement and Touching:  Do not move the KNK Force or touch any circuitry while it is plugged in.
-
-**Additionally**
-
-* **DO NOT** touch or jam the plotter’s track while it is operating. If the cutter is damaged, it is the owner’s responsibility.
-
-* **DO NOT** shake the cutter while it is operating.
-
-* **DO NOT** cut any materials that have staples or other embellishments attached.
-
-* **DO NOT** touch the cutter with a magnet. It is safe, however, to cut magnetic materials, such as those used on refrigerators and car exteriors.
-
-* **DO NOT** allow small items to fall into the cutter.
-
-* **Transporting** When transporting the cutter, move the pinch wheel levers into the upward position or remove them from the Force by sliding to the far right side (as you face the front of the cutter). Remove the blade from the blade holder and cover the tip with the plastic cap. Also, remove items from the storage compartments inside the fold-down table.
-
-### Warranty
-
-* If your KNK Force is damaged during shipment or appears to be defective, then your dealer should be notified as soon as possible. If damages are reported later than three weeks after delivery, then it will be the responsibility of the owner to ship the damaged cutter back to KNK USA for repair.
-
-
-* The one year parts and labor warranty covers manufacturer’s defects only and does not include normal wear and tear. If warranty work is required, the owner is responsible for shipping costs to and from KNK USA.
-
-* KNK Force owners outside the USA should contact their dealer for procedures regarding warranty work or shipping damage.
-
-* It is also recommended that you retain the original box with packing materials in case you ever need to ship your KNK Force.
-
-### Support
-
-* If you run into difficulties with the operation of your KNK Force, turn off the power and look for a solution in this manual. Appendix A is a list of Troubleshooting FAQ’s.  If you continue to have technical questions or issues, please contact your KNK dealer as soon as possible.
-
-* For any shipping issues, including delays or damages, please contact KNK USA (or your KNK distributor if you are outside the USA) as soon as possible so that appropriate action with the shipping company can be initiated.
-
-* For any mechanical issues, please contact KNK USA. 
-
-* For more help in learning your Force, as well as sharing ideas and photos of projects with other owners, the following user groups are recommended: 
-1. [KNK Force Yahoo group](https://groups.yahoo.com/neo/groups/KNK_Force/)
-1. [All KNK Yahoo group](http://groups.yahoo.com/group/Klic-N-Kut/)
-1. [KNK Force Facebook group](https://www.facebook.com/groups/KNKForce/)
-1. [All KNK Facebook group](https://www.facebook.com/groups/KNKMaxx/)
-1. [For inspiration and tips on cutting specific materials](http://teamknk.com/)
