@@ -161,8 +161,4 @@ There are three kinds of blades for the KNK Force:
 
 ![the blade stored with a little piece of foam](https://github.com/dospuntocero/testknk/blob/master/images/blade-foam.png?raw=true)
 
-<<<<<<< HEAD
 •	If you don't have these foam pop dots, there are other alternatives, such as cutting a few small squares from craft foam or from an egg carton or even from a thick material such as felt.
-=======
-•	If you don't have these foam pop dots, there are other alternatives, such as cutting a few small squares from craft foam or from an egg carton or even from a thick material such as felt.
->>>>>>> 7a9a92a3ecfe0b015bb677672ad9a48e61a715ec
